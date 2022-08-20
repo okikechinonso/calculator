@@ -1,12 +1,17 @@
 # Simple Calculator
 
 
-
+## Run if go env is setup
 Run ``go mod tidy`` to download all dependencies
 
 Run `go run ./...` to start the project
 
 Run `go test ./...` for tests
+
+## Run if docker is setup
+`docker compose up`
+
+# Test the application
 
 Run on terminal using
 ```azure
